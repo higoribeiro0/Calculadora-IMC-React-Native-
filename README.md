@@ -3,6 +3,8 @@
 Este foi o meu primeiro aplicativo usando React Native, com o intuito de colocar em prática meus
 os conhecimentos adquiridos.
 
+https://drive.google.com/file/d/1d_CdfkvV9fkpQotV6vLSUlXMi0XSorAA/view?usp=sharing
+
 
 ## Ferramentas:
 
